@@ -1,0 +1,27 @@
+*{
+    margin: 15px;
+    padding: 15px;
+}
+h1{
+    color:royalblue;
+}
+
+
+body{
+    color: ghostwhite
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+    font-size: 15px;
+    font-weight: normal;
+    background-color:#e8e8e8
+    }
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+.box{
+    background-color:#ffffff
+
+}
